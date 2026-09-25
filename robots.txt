@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://winter-poetry-1b92.shady93024829.workers.dev/sitemap.xml
